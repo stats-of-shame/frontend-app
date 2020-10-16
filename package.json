@@ -14,9 +14,16 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "@loadable/component": "^5.13.2",
     "gatsby": "^2.24.67",
+    "kepler.gl": "^2.3.2",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "react-loadable": "^5.5.0",
+    "react-palm": "^3.3.7",
+    "react-redux": "^7.2.1",
+    "redux": "^4.0.5",
+    "styled-components": "^5.2.0"
   },
   "devDependencies": {
     "prettier": "2.1.2"
